@@ -1,0 +1,29 @@
+Challenge A:
+
+Use plotly express to plot a Bar chart instead of a choropleth map.
+X-axis should represent States
+Y-axis should represent % of bee colonies 
+
+Challenge B:
+
+Use plotly express to plot a Line chart instead of a choropleth map.
+X-axis should represent Year
+Y-axis should represent % of bee colonies 
+Color should represent State (Texas, New Mexico, New York)
+Dropdown options should be list of things affecting bees
+
+
+
+挑戰A：
+
+使用plotly express 繪製長條圖而不是分區統計圖。
+X 軸應代表國家
+Y 軸應代表蜂群的百分比
+
+挑戰B：
+
+使用plotly express 繪製折線圖而不是分區統計圖。
+X 軸應代表年份
+Y 軸應代表蜂群的百分比
+顏色應代表州（德克薩斯州、新墨西哥州、紐約州）
+下拉選項應該是影響蜜蜂的事物列表
